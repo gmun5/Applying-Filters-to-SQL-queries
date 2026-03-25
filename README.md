@@ -1,4 +1,4 @@
-# Applying Filters to SQL-queries
+# Applying Filters to SQL queries
 
 ## Objective
 
