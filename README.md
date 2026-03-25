@@ -52,22 +52,18 @@ In this scenario, I acted as a security professional analyzing organizational da
 
 *Ref 7: Query Explanation Document Page 7*
 
-<img width="727" height="936" alt="Screenshot 2026-03-25 at 5 54 36 PM" src="https://github.com/user-attachments/assets/20ad6177-c0d3-4999-90af-78cdb5ae04c2" />
+<img width="727" height="936" alt="Screenshot 2026-03-25 at 5 54 42 PM" src="https://github.com/user-attachments/assets/eb09df90-75bc-48b6-9da9-9fcf6f6bd803" />
 
 *Ref 8: Query Explanation Document Page 8*
 
-<img width="727" height="936" alt="Screenshot 2026-03-25 at 5 54 42 PM" src="https://github.com/user-attachments/assets/eb09df90-75bc-48b6-9da9-9fcf6f6bd803" />
+<img width="727" height="934" alt="Screenshot 2026-03-25 at 5 54 54 PM" src="https://github.com/user-attachments/assets/9f6495e5-e520-4a1d-b1c2-a3f8cee5b84e" />
 
 *Ref 9: Query Explanation Document Page 9*
 
-<img width="727" height="934" alt="Screenshot 2026-03-25 at 5 54 54 PM" src="https://github.com/user-attachments/assets/9f6495e5-e520-4a1d-b1c2-a3f8cee5b84e" />
+<img width="727" height="934" alt="Screenshot 2026-03-25 at 5 55 01 PM" src="https://github.com/user-attachments/assets/0e7f09aa-286c-4576-a218-94f77162cb37" />
 
 *Ref 10: Query Explanation Document Page 10*
 
-<img width="727" height="934" alt="Screenshot 2026-03-25 at 5 55 01 PM" src="https://github.com/user-attachments/assets/0e7f09aa-286c-4576-a218-94f77162cb37" />
-
-*Ref 11: Query Explanation Document Page 11*
-
 <img width="727" height="927" alt="Screenshot 2026-03-25 at 5 55 19 PM" src="https://github.com/user-attachments/assets/b9c93eba-166e-4b0c-8291-d0948684b45b" />
 
-*Ref 12: Query Explanation Document Page 12*
+*Ref 11: Query Explanation Document Page 11*
