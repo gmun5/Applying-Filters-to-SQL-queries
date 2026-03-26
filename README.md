@@ -67,3 +67,8 @@ In this scenario, I acted as a security professional analyzing organizational da
 <img width="727" height="927" alt="Screenshot 2026-03-25 at 5 55 19 PM" src="https://github.com/user-attachments/assets/b9c93eba-166e-4b0c-8291-d0948684b45b" />
 
 *Ref 11: Query Explanation Document Page 11*
+
+## Source
+
+
+Based on a Google Skills lab
